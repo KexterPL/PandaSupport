@@ -1,7 +1,7 @@
 .version.partnerstwa /* version checker */
 {
-	color: #0000FB;
-	background-color: #E355F1;
+	color: #00001F;
+	background-color: #C37125;
 }
 
 #muse_css_mq
@@ -90,7 +90,7 @@
 
 #u332-31
 {
-	z-index: 14;
+	z-index: 19;
 	display: block;
 	vertical-align: top;
 	margin-top: 10px;
@@ -106,7 +106,7 @@
 	border-color: transparent;
 	background-color: #9B3958;
 	border-radius: 97px;
-	padding-bottom: 7px;
+	padding-bottom: 6px;
 	margin-top: 22px;
 	position: relative;
 	width: 29.48%;
@@ -123,7 +123,42 @@
 	left: 14.85%;
 }
 
-#u291-4_img,#u336-4_img
+#u393-16
+{
+	z-index: 50;
+	display: block;
+	vertical-align: top;
+	margin-top: 22px;
+	position: relative;
+	width: 89.28%;
+	margin-left: 6.46%;
+}
+
+#u396
+{
+	z-index: 14;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #9B3958;
+	border-radius: 97px;
+	padding-bottom: 6px;
+	margin-top: 22px;
+	position: relative;
+	width: 29.48%;
+	margin-left: 35.32%;
+}
+
+#u397-4
+{
+	z-index: 15;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 8px;
+	width: 74.92%;
+	left: 14.85%;
+}
+
+#u291-4_img,#u336-4_img,#u397-4_img
 {
 	display: block;
 	vertical-align: top;

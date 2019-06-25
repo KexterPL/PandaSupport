@@ -1,9 +1,9 @@
-<manifest alg="2" build="2015.1.0.342" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="PandaSupport.pl" resolutions="1x" timestamp="1561480559980">
+<manifest alg="2" build="2015.1.0.342" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="PandaSupport.pl" resolutions="1x" timestamp="1561481276937">
   <folder name="css">
     <file name="site_global.css" crc="131700929"/>
     <file name="index.css" crc="4117731569" ref="index"/>
     <file name="administracja.css" crc="31690120" ref="administracja"/>
-    <file name="partnerstwa.css" crc="4225979889" ref="partnerstwa"/>
+    <file name="partnerstwa.css" crc="532902181" ref="partnerstwa"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="409338010" ref="index:administracja:partnerstwa"/>
@@ -26,9 +26,11 @@
     <file name="u274-6.png" crc="4262558825" ref="administracja"/>
     <file name="u291-4.png" crc="3889059030" ref="partnerstwa"/>
     <file name="u332-31.png" crc="3860858642" ref="partnerstwa"/>
-    <file name="u336-4.png" crc="4117751635" ref="partnerstwa"/>
+    <file name="u336-4.png" crc="4261225210" ref="partnerstwa"/>
+    <file name="u393-16.png" crc="401109126" ref="partnerstwa"/>
+    <file name="u397-4.png" crc="4261225210" ref="partnerstwa"/>
   </folder>
   <file name="index.html" crc="98991243" seo="true" mt="1561480065908" redirect="true"/>
   <file name="administracja.html" crc="360208521" seo="true" mt="1561480065910" redirect="true"/>
-  <file name="partnerstwa.html" crc="259023716" seo="true" mt="1561480514488" redirect="true"/>
+  <file name="partnerstwa.html" crc="3772679421" seo="true" mt="1561481262272" redirect="true"/>
 </manifest>
