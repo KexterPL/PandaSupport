@@ -1,20 +1,22 @@
-<manifest alg="2" build="2015.1.0.342" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="PandaSupport.pl" resolutions="1x" timestamp="1561481892622">
+<manifest alg="2" build="2015.1.0.342" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="PandaSupport.pl" resolutions="1x" timestamp="1561485144475">
   <folder name="css">
     <file name="site_global.css" crc="131700929"/>
     <file name="index.css" crc="4117731569" ref="index"/>
     <file name="administracja.css" crc="31690120" ref="administracja"/>
-    <file name="partnerstwa.css" crc="468762271" ref="partnerstwa"/>
+    <file name="partnerstwa.css" crc="4241005554" ref="partnerstwa"/>
+    <file name="wymagania.css" crc="60633673" ref="wymagania"/>
+    <file name="partnerstwa-youtube.css" crc="3760065393" ref="partnerstwa-youtube"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="409338010" ref="index:administracja:partnerstwa"/>
-    <file name="museutils.js" crc="4190794036" ref="index:administracja:partnerstwa"/>
-    <file name="whatinput.js" crc="84559013" ref="index:administracja:partnerstwa"/>
-    <file name="jquery.watch.js" crc="349565855" ref="index:administracja:partnerstwa"/>
-    <file name="pie.js" crc="3827607177" ref="index:partnerstwa"/>
+    <file name="jquery-1.8.3.min.js" crc="409338010" ref="index:administracja:partnerstwa:wymagania:partnerstwa-youtube"/>
+    <file name="museutils.js" crc="4190794036" ref="index:administracja:partnerstwa:wymagania:partnerstwa-youtube"/>
+    <file name="whatinput.js" crc="84559013" ref="index:administracja:partnerstwa:wymagania:partnerstwa-youtube"/>
+    <file name="jquery.watch.js" crc="349565855" ref="index:administracja:partnerstwa:wymagania:partnerstwa-youtube"/>
+    <file name="pie.js" crc="3827607177" ref="index:partnerstwa:partnerstwa-youtube"/>
   </folder>
   <folder name="images">
     <file name="u109-4.png" crc="4109750777" ref="index"/>
-    <file name="495e6dc58a86913df2477399e3e78838.png" crc="4236479940" seo="true" ref="index:administracja:partnerstwa"/>
+    <file name="495e6dc58a86913df2477399e3e78838.png" crc="4236479940" seo="true" ref="index:administracja:partnerstwa:wymagania:partnerstwa-youtube"/>
     <file name="u181-4.png" crc="3889059030" ref="index"/>
     <file name="u185-18.png" crc="98291639" ref="index"/>
     <file name="u192-4.png" crc="3766443206" ref="index"/>
@@ -29,8 +31,21 @@
     <file name="u336-4.png" crc="4261225210" ref="partnerstwa"/>
     <file name="u393-16.png" crc="401109126" ref="partnerstwa"/>
     <file name="u397-4.png" crc="4261225210" ref="partnerstwa"/>
+    <file name="u408-4.png" crc="4088258113" ref="partnerstwa"/>
+    <file name="u411-6.png" crc="4287085399" ref="partnerstwa"/>
+    <file name="u465-4.png" crc="3889059030" ref="wymagania"/>
+    <file name="rainbow.gif" crc="4160694941" seo="true" ref="wymagania"/>
+    <file name="u514-13.png" crc="39581559" ref="wymagania"/>
+    <file name="u517-23.png" crc="4170630797" ref="wymagania"/>
+    <file name="u478-4.png" crc="3889059030" ref="partnerstwa-youtube"/>
+    <file name="u561-4.png" crc="344234454" ref="partnerstwa-youtube"/>
+    <file name="u567-4.png" crc="170378188" ref="partnerstwa-youtube"/>
+    <file name="u573-4.png" crc="4110670658" ref="partnerstwa-youtube"/>
+    <file name="u579-4.png" crc="4124018658" ref="partnerstwa-youtube"/>
   </folder>
   <file name="index.html" crc="98991243" seo="true" mt="1561480065908" redirect="true"/>
   <file name="administracja.html" crc="360208521" seo="true" mt="1561480065910" redirect="true"/>
-  <file name="partnerstwa.html" crc="495127515" seo="true" mt="1561481866088" redirect="true"/>
+  <file name="partnerstwa.html" crc="353591552" seo="true" mt="1561483744411" redirect="true"/>
+  <file name="wymagania.html" crc="4129045146" seo="true" mt="1561483801444" redirect="true"/>
+  <file name="partnerstwa-youtube.html" crc="506517489" seo="true" mt="1561485090727" redirect="true"/>
 </manifest>

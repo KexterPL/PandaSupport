@@ -19,6 +19,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://PandaSupport.pl/images/rainbow.gif</loc>
+    <lastmod>2019-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://PandaSupport.pl/index.html</loc>
     <lastmod>2019-06-25</lastmod>
     <changefreq>weekly</changefreq>
@@ -32,6 +38,18 @@
   </url>
   <url>
     <loc>http://PandaSupport.pl/partnerstwa.html</loc>
+    <lastmod>2019-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://PandaSupport.pl/wymagania.html</loc>
+    <lastmod>2019-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://PandaSupport.pl/partnerstwa-youtube.html</loc>
     <lastmod>2019-06-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

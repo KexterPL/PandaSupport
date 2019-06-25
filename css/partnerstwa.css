@@ -1,7 +1,7 @@
 .version.partnerstwa /* version checker */
 {
-	color: #00001B;
-	background-color: #F0BE9F;
+	color: #0000FC;
+	background-color: #C89BF2;
 }
 
 #muse_css_mq
@@ -12,7 +12,7 @@
 #page
 {
 	z-index: 1;
-	min-height: 499.54999999999995px;
+	min-height: 499.5999999999999px;
 	background-image: none;
 	border-width: 0px;
 	border-color: #000000;
@@ -34,7 +34,7 @@
 #u283
 {
 	z-index: 2;
-	min-height: 62px;
+	min-height: 63px;
 	background-color: #B6B5B8;
 }
 
@@ -48,7 +48,7 @@
 
 #u281
 {
-	z-index: 7;
+	z-index: 17;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
@@ -67,9 +67,33 @@
 {
 	z-index: 3;
 	position: relative;
+	margin-right: -10000px;
+	margin-top: 3px;
 	width: 30%;
+	margin-left: 35%;
 	left: -274px;
-	margin: 3px -10000px -1px 35%;
+}
+
+#u408-4
+{
+	z-index: 7;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 7px;
+	width: 18.65%;
+	margin-left: 40.68%;
+	left: 15px;
+}
+
+#u411-6
+{
+	z-index: 11;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 7px;
+	width: 32.19%;
+	margin-left: 33.91%;
+	left: 313px;
 }
 
 .js body
@@ -85,15 +109,15 @@
 #u283-bw
 {
 	z-index: 2;
-	min-height: 62px;
+	min-height: 63px;
 }
 
 #u332-31
 {
-	z-index: 27;
+	z-index: 37;
 	display: block;
 	vertical-align: top;
-	margin-top: 3px;
+	margin-top: 42px;
 	position: relative;
 	width: 89.28%;
 	margin-left: 5.42%;
@@ -101,7 +125,7 @@
 
 #u405-4
 {
-	z-index: 23;
+	z-index: 33;
 	min-height: 12px;
 	background-color: transparent;
 	font-size: 30px;
@@ -114,7 +138,7 @@
 
 #u335
 {
-	z-index: 9;
+	z-index: 19;
 	border-width: 0px;
 	border-color: transparent;
 	background-color: #9B3958;
@@ -128,7 +152,7 @@
 
 #u336-4
 {
-	z-index: 10;
+	z-index: 20;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 8px;
@@ -138,7 +162,7 @@
 
 #u402-4
 {
-	z-index: 19;
+	z-index: 29;
 	min-height: 12px;
 	background-color: transparent;
 	font-size: 30px;
@@ -152,7 +176,7 @@
 
 #u393-16
 {
-	z-index: 58;
+	z-index: 68;
 	display: block;
 	vertical-align: top;
 	position: relative;
@@ -162,7 +186,7 @@
 
 #u396
 {
-	z-index: 14;
+	z-index: 24;
 	border-width: 0px;
 	border-color: transparent;
 	background-color: #9B3958;
@@ -176,7 +200,7 @@
 
 #u397-4
 {
-	z-index: 15;
+	z-index: 25;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 8px;
@@ -184,7 +208,7 @@
 	left: 14.85%;
 }
 
-#u291-4_img,#u336-4_img,#u397-4_img
+#u291-4_img,#u408-4_img,#u411-6_img,#u336-4_img,#u397-4_img
 {
 	display: block;
 	vertical-align: top;
