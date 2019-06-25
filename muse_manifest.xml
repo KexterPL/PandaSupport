@@ -1,30 +1,34 @@
-<manifest alg="2" build="2015.1.0.342" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="PandaSupport.pl" resolutions="1x" timestamp="1561429594507">
+<manifest alg="2" build="2015.1.0.342" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="PandaSupport.pl" resolutions="1x" timestamp="1561480559980">
   <folder name="css">
     <file name="site_global.css" crc="131700929"/>
-    <file name="index.css" crc="123054028" ref="index"/>
-    <file name="administracja.css" crc="376299306" ref="administracja"/>
+    <file name="index.css" crc="4117731569" ref="index"/>
+    <file name="administracja.css" crc="31690120" ref="administracja"/>
+    <file name="partnerstwa.css" crc="4225979889" ref="partnerstwa"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="409338010" ref="index:administracja"/>
-    <file name="museutils.js" crc="4190794036" ref="index:administracja"/>
-    <file name="whatinput.js" crc="84559013" ref="index:administracja"/>
-    <file name="jquery.watch.js" crc="349565855" ref="index:administracja"/>
-    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="409338010" ref="index:administracja:partnerstwa"/>
+    <file name="museutils.js" crc="4190794036" ref="index:administracja:partnerstwa"/>
+    <file name="whatinput.js" crc="84559013" ref="index:administracja:partnerstwa"/>
+    <file name="jquery.watch.js" crc="349565855" ref="index:administracja:partnerstwa"/>
+    <file name="pie.js" crc="3827607177" ref="index:partnerstwa"/>
   </folder>
   <folder name="images">
     <file name="u109-4.png" crc="4109750777" ref="index"/>
-    <file name="495e6dc58a86913df2477399e3e78838.png" crc="4236479940" seo="true" ref="index:administracja"/>
+    <file name="495e6dc58a86913df2477399e3e78838.png" crc="4236479940" seo="true" ref="index:administracja:partnerstwa"/>
     <file name="u181-4.png" crc="3889059030" ref="index"/>
     <file name="u185-18.png" crc="98291639" ref="index"/>
-    <file name="u192-4.png" crc="4108808772" ref="index"/>
+    <file name="u192-4.png" crc="3766443206" ref="index"/>
     <file name="u226-4.png" crc="3889059030" ref="administracja"/>
-    <file name="3d5f1e7ea55619ee09b96892eaf91a50.jpg" crc="4238488607" seo="true" ref="administracja"/>
     <file name="56abbdbc4af8cbc94201d4b5178049f7.jpg" crc="4185423762" seo="true" ref="administracja"/>
     <file name="dc6c6748bb7b53b58be09feaa847ca92.jpg" crc="4069301343" seo="true" ref="administracja"/>
-    <file name="u238-4.png" crc="4184013675" ref="administracja"/>
     <file name="u271-4.png" crc="4265715632" ref="administracja"/>
-    <file name="u274-4.png" crc="3849568473" ref="administracja"/>
+    <file name="u323-4.png" crc="142520590" ref="index"/>
+    <file name="u274-6.png" crc="4262558825" ref="administracja"/>
+    <file name="u291-4.png" crc="3889059030" ref="partnerstwa"/>
+    <file name="u332-31.png" crc="3860858642" ref="partnerstwa"/>
+    <file name="u336-4.png" crc="4117751635" ref="partnerstwa"/>
   </folder>
-  <file name="index.html" crc="3913039955" seo="true" mt="1561429552234" redirect="true"/>
-  <file name="administracja.html" crc="3884919215" seo="true" mt="1561429548214" redirect="true"/>
+  <file name="index.html" crc="98991243" seo="true" mt="1561480065908" redirect="true"/>
+  <file name="administracja.html" crc="360208521" seo="true" mt="1561480065910" redirect="true"/>
+  <file name="partnerstwa.html" crc="259023716" seo="true" mt="1561480514488" redirect="true"/>
 </manifest>

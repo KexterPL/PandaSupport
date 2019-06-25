@@ -1,7 +1,7 @@
 .version.administracja /* version checker */
 {
-	color: #000016;
-	background-color: #6DDF2A;
+	color: #000001;
+	background-color: #E38D88;
 }
 
 #muse_css_mq
@@ -82,20 +82,20 @@
 	width: 100%;
 }
 
-#u241
+#u256
 {
-	z-index: 13;
+	z-index: 11;
 	background-color: transparent;
 	position: fixed;
 	top: 75px;
-	left: 38px;
+	left: 34px;
 	width: 13.34%;
 	max-width: 128px;
 }
 
 #u249
 {
-	z-index: 15;
+	z-index: 9;
 	background-color: transparent;
 	position: fixed;
 	top: 75px;
@@ -104,54 +104,31 @@
 	max-width: 128px;
 }
 
-#u256
-{
-	z-index: 17;
-	background-color: transparent;
-	position: fixed;
-	top: 75px;
-	left: 395px;
-	width: 13.34%;
-	max-width: 128px;
-}
-
-#u219_img,#u241_img,#u249_img,#u256_img
+#u219_img,#u256_img,#u249_img
 {
 	width: 100%;
 }
 
-#u238-4
+#u274-6
 {
-	z-index: 9;
+	z-index: 17;
 	display: block;
 	vertical-align: top;
 	position: fixed;
 	top: 210px;
-	left: 38px;
-	width: 16.46%;
-	max-width: 158px;
+	left: 34px;
+	width: 20.84%;
+	max-width: 200px;
 }
 
 #u271-4
 {
-	z-index: 19;
+	z-index: 13;
 	display: block;
 	vertical-align: top;
 	position: fixed;
 	top: 210px;
 	left: 217px;
-	width: 20.84%;
-	max-width: 200px;
-}
-
-#u274-4
-{
-	z-index: 23;
-	display: block;
-	vertical-align: top;
-	position: fixed;
-	top: 216px;
-	left: 395px;
 	width: 20.84%;
 	max-width: 200px;
 }

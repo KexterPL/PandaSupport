@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000007;
-	background-color: #55A7CC;
+	color: #0000F5;
+	background-color: #6F98F1;
 }
 
 #muse_css_mq
@@ -27,8 +27,27 @@
 #u97
 {
 	z-index: 2;
-	height: 62px;
+	min-height: 61px;
 	background-color: #B6B5B8;
+	padding-bottom: 1px;
+}
+
+#u97_align_to_page
+{
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+	max-width: 960px;
+}
+
+#u323-4
+{
+	z-index: 36;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+	width: 28.65%;
+	left: 40%;
 }
 
 .js body
@@ -44,7 +63,7 @@
 #u97-bw
 {
 	z-index: 2;
-	height: 62px;
+	min-height: 61px;
 }
 
 #u122
@@ -116,13 +135,13 @@
 {
 	z-index: 32;
 	position: fixed;
-	top: 0px;
-	right: 20px;
-	width: 32.3%;
-	max-width: 310px;
+	top: 2px;
+	right: -46px;
+	width: 32.4%;
+	max-width: 311px;
 }
 
-#u109-4_img,#u192-4_img
+#u323-4_img,#u109-4_img,#u192-4_img
 {
 	display: block;
 	vertical-align: top;
