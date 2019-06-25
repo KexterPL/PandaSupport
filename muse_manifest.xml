@@ -1,30 +1,38 @@
-<manifest alg="2" build="2015.1.0.342" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="PandaSupport.pl" resolutions="1x" timestamp="1561485144475">
+<manifest alg="2" build="2015.1.0.342" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="panda.support@interia.pl" resolutions="1x" timestamp="1561489610589">
   <folder name="css">
     <file name="site_global.css" crc="131700929"/>
-    <file name="index.css" crc="4117731569" ref="index"/>
+    <file name="index.css" crc="3775203034" ref="index"/>
     <file name="administracja.css" crc="31690120" ref="administracja"/>
     <file name="partnerstwa.css" crc="4241005554" ref="partnerstwa"/>
     <file name="wymagania.css" crc="60633673" ref="wymagania"/>
     <file name="partnerstwa-youtube.css" crc="3760065393" ref="partnerstwa-youtube"/>
+    <file name="nomq_index.css" crc="3826313254" ref="index"/>
+    <file name="opinia.css" crc="4091042820" ref="opinia"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="409338010" ref="index:administracja:partnerstwa:wymagania:partnerstwa-youtube"/>
-    <file name="museutils.js" crc="4190794036" ref="index:administracja:partnerstwa:wymagania:partnerstwa-youtube"/>
-    <file name="whatinput.js" crc="84559013" ref="index:administracja:partnerstwa:wymagania:partnerstwa-youtube"/>
-    <file name="jquery.watch.js" crc="349565855" ref="index:administracja:partnerstwa:wymagania:partnerstwa-youtube"/>
+    <file name="jquery-1.8.3.min.js" crc="409338010" ref="index:administracja:partnerstwa:wymagania:partnerstwa-youtube:opinia"/>
+    <file name="museutils.js" crc="4190794036" ref="index:administracja:partnerstwa:wymagania:partnerstwa-youtube:opinia"/>
+    <file name="whatinput.js" crc="84559013" ref="index:administracja:partnerstwa:wymagania:partnerstwa-youtube:opinia"/>
+    <file name="jquery.watch.js" crc="349565855" ref="index:administracja:partnerstwa:wymagania:partnerstwa-youtube:opinia"/>
     <file name="pie.js" crc="3827607177" ref="index:partnerstwa:partnerstwa-youtube"/>
+    <file name="jquery.museresponsive.js" crc="408737887" ref="index"/>
+    <file name="webpro.js" crc="488283310" ref="opinia"/>
+    <file name="form_check.php" crc="430210585" ref="opinia"/>
+    <file name="form_process.php" crc="339897355" ref="opinia"/>
+    <file name="form-u842.php" crc="3939908279" ref="opinia"/>
+    <file name="form_throttle.php" crc="282343929" ref="opinia"/>
   </folder>
   <folder name="images">
-    <file name="u109-4.png" crc="4109750777" ref="index"/>
-    <file name="495e6dc58a86913df2477399e3e78838.png" crc="4236479940" seo="true" ref="index:administracja:partnerstwa:wymagania:partnerstwa-youtube"/>
-    <file name="u181-4.png" crc="3889059030" ref="index"/>
-    <file name="u185-18.png" crc="98291639" ref="index"/>
-    <file name="u192-4.png" crc="3766443206" ref="index"/>
+    <file name="u109-4.png" crc="212563364" ref="index"/>
+    <file name="495e6dc58a86913df2477399e3e78838.png" crc="4236479940" seo="true" ref="index:administracja:partnerstwa:wymagania:partnerstwa-youtube:opinia"/>
+    <file name="u181-4.png" crc="3955084215" ref="index"/>
+    <file name="u185-18.png" crc="4065239494" ref="index"/>
+    <file name="u192-4.png" crc="151994992" ref="index"/>
     <file name="u226-4.png" crc="3889059030" ref="administracja"/>
     <file name="56abbdbc4af8cbc94201d4b5178049f7.jpg" crc="4185423762" seo="true" ref="administracja"/>
     <file name="dc6c6748bb7b53b58be09feaa847ca92.jpg" crc="4069301343" seo="true" ref="administracja"/>
     <file name="u271-4.png" crc="4265715632" ref="administracja"/>
-    <file name="u323-4.png" crc="142520590" ref="index"/>
+    <file name="u323-4.png" crc="430289000" ref="index"/>
     <file name="u274-6.png" crc="4262558825" ref="administracja"/>
     <file name="u291-4.png" crc="3889059030" ref="partnerstwa"/>
     <file name="u332-31.png" crc="3860858642" ref="partnerstwa"/>
@@ -42,10 +50,31 @@
     <file name="u567-4.png" crc="170378188" ref="partnerstwa-youtube"/>
     <file name="u573-4.png" crc="4110670658" ref="partnerstwa-youtube"/>
     <file name="u579-4.png" crc="4124018658" ref="partnerstwa-youtube"/>
+    <file name="u705-4.png" crc="4114866096" ref="index"/>
+    <file name="u323-42.png" crc="4239943428" ref="index"/>
+    <file name="u185-182.png" crc="98291639" ref="index"/>
+    <file name="u181-42.png" crc="3889059030" ref="index"/>
+    <file name="u109-42.png" crc="4109750777" ref="index"/>
+    <file name="u192-42.png" crc="50032825" ref="index"/>
+    <file name="u705-42.png" crc="4204716476" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:opinia"/>
+    <file name="u803-4.png" crc="3889059030" ref="opinia"/>
+    <file name="u853.png" crc="68749796" ref="opinia"/>
+    <file name="u853-ferr.png" crc="3881878619" ref="opinia"/>
+    <file name="u847.png" crc="3785046271" ref="opinia"/>
+    <file name="u847-ferr.png" crc="4061848138" ref="opinia"/>
+    <file name="u858-fss.png" crc="3794472218" ref="opinia"/>
+    <file name="u857-17.png" crc="4210605358" ref="opinia"/>
+    <file name="u857-17-r.png" crc="150703488" ref="opinia"/>
+    <file name="u857-17-m.png" crc="343754954" ref="opinia"/>
+    <file name="u857-17-fs.png" crc="411522998" ref="opinia"/>
+    <file name="u849.png" crc="368140790" ref="opinia"/>
+    <file name="u849-ferr.png" crc="532399191" ref="opinia"/>
   </folder>
-  <file name="index.html" crc="98991243" seo="true" mt="1561480065908" redirect="true"/>
+  <file name="index.html" crc="235323550" seo="true" mt="1561486299716" redirect="true"/>
   <file name="administracja.html" crc="360208521" seo="true" mt="1561480065910" redirect="true"/>
   <file name="partnerstwa.html" crc="353591552" seo="true" mt="1561483744411" redirect="true"/>
   <file name="wymagania.html" crc="4129045146" seo="true" mt="1561483801444" redirect="true"/>
-  <file name="partnerstwa-youtube.html" crc="506517489" seo="true" mt="1561485090727" redirect="true"/>
+  <file name="partnerstwa-youtube.html" crc="506517489" seo="true" mt="1561485829338" redirect="true"/>
+  <file name="opinia.html" crc="67683973" seo="true" mt="1561489383929" redirect="true"/>
 </manifest>
