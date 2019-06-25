@@ -1,9 +1,9 @@
-<manifest alg="2" build="2015.1.0.342" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="PandaSupport.pl" resolutions="1x" timestamp="1561481276937">
+<manifest alg="2" build="2015.1.0.342" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="PandaSupport.pl" resolutions="1x" timestamp="1561481892622">
   <folder name="css">
     <file name="site_global.css" crc="131700929"/>
     <file name="index.css" crc="4117731569" ref="index"/>
     <file name="administracja.css" crc="31690120" ref="administracja"/>
-    <file name="partnerstwa.css" crc="532902181" ref="partnerstwa"/>
+    <file name="partnerstwa.css" crc="468762271" ref="partnerstwa"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="409338010" ref="index:administracja:partnerstwa"/>
@@ -32,5 +32,5 @@
   </folder>
   <file name="index.html" crc="98991243" seo="true" mt="1561480065908" redirect="true"/>
   <file name="administracja.html" crc="360208521" seo="true" mt="1561480065910" redirect="true"/>
-  <file name="partnerstwa.html" crc="3772679421" seo="true" mt="1561481262272" redirect="true"/>
+  <file name="partnerstwa.html" crc="495127515" seo="true" mt="1561481866088" redirect="true"/>
 </manifest>

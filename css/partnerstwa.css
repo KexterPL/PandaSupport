@@ -1,7 +1,7 @@
 .version.partnerstwa /* version checker */
 {
-	color: #00001F;
-	background-color: #C37125;
+	color: #00001B;
+	background-color: #F0BE9F;
 }
 
 #muse_css_mq
@@ -12,7 +12,7 @@
 #page
 {
 	z-index: 1;
-	min-height: 499.95000000000005px;
+	min-height: 499.54999999999995px;
 	background-image: none;
 	border-width: 0px;
 	border-color: #000000;
@@ -90,13 +90,26 @@
 
 #u332-31
 {
-	z-index: 19;
+	z-index: 27;
 	display: block;
 	vertical-align: top;
-	margin-top: 10px;
+	margin-top: 3px;
 	position: relative;
 	width: 89.28%;
-	margin-left: 6.46%;
+	margin-left: 5.42%;
+}
+
+#u405-4
+{
+	z-index: 23;
+	min-height: 12px;
+	background-color: transparent;
+	font-size: 30px;
+	color: #2AFF43;
+	line-height: 36px;
+	position: relative;
+	width: 113.65%;
+	left: -4.28%;
 }
 
 #u335
@@ -107,10 +120,10 @@
 	background-color: #9B3958;
 	border-radius: 97px;
 	padding-bottom: 6px;
-	margin-top: 22px;
+	margin-top: 29px;
 	position: relative;
 	width: 29.48%;
-	margin-left: 35.32%;
+	margin-left: 36.67%;
 }
 
 #u336-4
@@ -123,15 +136,28 @@
 	left: 14.85%;
 }
 
+#u402-4
+{
+	z-index: 19;
+	min-height: 12px;
+	background-color: transparent;
+	font-size: 30px;
+	color: #2AFF43;
+	line-height: 36px;
+	margin-top: 28px;
+	position: relative;
+	width: 113.65%;
+	left: -4.28%;
+}
+
 #u393-16
 {
-	z-index: 50;
+	z-index: 58;
 	display: block;
 	vertical-align: top;
-	margin-top: 22px;
 	position: relative;
 	width: 89.28%;
-	margin-left: 6.46%;
+	margin-left: 5.42%;
 }
 
 #u396
@@ -142,10 +168,10 @@
 	background-color: #9B3958;
 	border-radius: 97px;
 	padding-bottom: 6px;
-	margin-top: 22px;
+	margin-top: 30px;
 	position: relative;
 	width: 29.48%;
-	margin-left: 35.32%;
+	margin-left: 36.67%;
 }
 
 #u397-4
